@@ -1,0 +1,170 @@
+Line:  Here's a look at how two of the big players in the solar energy industry, Tesla, Inc. (TSLA) owned Solar City and First Solar, Inc. (FSLR), are stacked against each other in this intensely competitive field.
+Sentiment score: 0.0
+Sentiment magnitude: 0.20000000298023224
+Entity types: ['OTHER', 'PERSON', 'OTHER', 'ORGANIZATION', 'PERSON', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'NUMBER']
+
+Line: "SolarCity's Dominance in U.S. Residential Market
+Sentiment score: 0.0
+Sentiment magnitude: 0.0
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER']
+
+Line: SolarCity commands a significant 41% share of the residential solar installation market, and the company also operates in the commercial and utilities space. The company's business model of offering to lease solar panels with no upfront costs has helped it gain a big slice of the residential solar market in the past."
+Sentiment score: 0.30000001192092896
+Sentiment magnitude: 0.699999988079071
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'LOCATION', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'NUMBER']
+
+Line: However, the model has put a burden on the company to constantly raise capital from investors to cover the upfront cost of installing the leased solar systems. Following its purchase by Tesla late last year and owing to the solar market dynamics, the company has moved on to allow consumers to take out loans and own their solar arrays outright. It now puts SolarCity in line with practices of other industry players.
+Sentiment score: -0.20000000298023224
+Sentiment magnitude: 1.2000000476837158
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'PERSON', 'ORGANIZATION', 'OTHER', 'PERSON', 'OTHER', 'OTHER', 'EVENT', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'PERSON', 'ORGANIZATION', 'OTHER']
+
+Line: During the last quarter of 2016, the loans outpaced leases for the first time. Despite the significant market share, SolarCity’s solar panel installations during the first quarter declined around 39% year over year during the first quarter of 2017. The company has revealed sleek new solar roof panels that it claims are more efficient and cost-competitive compared to regular roofing products.
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 1.2000000476837158
+Entity types: ['OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'EVENT', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'DATE', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: First Solar has done things differently since its inception and managed to cut its own road to success. Right from developing cadmium-telluride (CdTe) based panels to developing advanced grid integration, plant control, forecasting and energy scheduling capabilities, the company has been able to sustain and succeed in the highly competitive solar energy market for decades.
+Sentiment score: 0.5
+Sentiment magnitude: 1.100000023841858
+Entity types: ['ORGANIZATION', 'OTHER', 'EVENT', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER']
+
+Line: First Solar is hopeful about its new-age Series 6 solar modules and is on course to ramp up the production of its new 400-watt-plus form factor, which will keep it competitive in the coming times, reports GTM. The company operates as a vertically integrated business, which puts it in control of everything starting from sourcing of raw materials to recycling of solar panels.
+Sentiment score: 0.30000001192092896
+Sentiment magnitude: 0.6000000238418579
+Entity types: ['ORGANIZATION', 'CONSUMER_GOOD', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'NUMBER', 'NUMBER']
+
+Line: During the first quarter of 2017, SolarCity’s financial numbers were included in the results of its parent company Tesla. Here's a comparison of the quarter before numbers for the two companies.
+Sentiment score: 0.0
+Sentiment magnitude: 0.10000000149011612
+Entity types: ['ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'DATE', 'NUMBER', 'NUMBER']
+
+Line: Revenue versus Long-Term Debt: While First Solar had a mediocre debt of 265.82 million during the last quarter of 2016, SolarCity was sitting on a huge debt pile with a figure of $1.87 billion. Comparing with the net sales or revenue numbers, SolarCity generated $221.44 million in sales, while First Solar had $891.79 million in sales during the fourth quarter of 2016. The long-term debt to sales ratio for First Solar stood at 30%, while that for SolarCity was at a whopping 844%
+Sentiment score: -0.30000001192092896
+Sentiment magnitude: 1.0
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'DATE', 'DATE', 'PRICE', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Current Ratio: SolarCity's current total assets stood at $692.93 million, while its current total liabilities were $1.52 billion during the last quarter of 2016. First Solar’s current total assets were $3.3 billion, and the company had liabilities of $527.05 million during the same period. The current ratio, which measures a company's ability to pay short-term and long-term obligations, is calculated as its current total assets of a company relative to its current total liabilities. SolarCity's current ratio comes to a paltry 0.456, while that of First Solar stands firm at a healthy figure of 6.26. (For related reading, see: Is First Solar a Great Deal or a Trap?)
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.8999999761581421
+Entity types: ['OTHER', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'WORK_OF_ART', 'DATE', 'PRICE', 'PRICE', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Though First Solar has a bulk of its sales coming from the North American region, it has a globally diversified clientele expanding across multiple continents. SolarCity continues to be a dominant full service player in the U.S. across residential, commercial, and utilities space. Though financial numbers for SolarCity are not available owing to its merger with Tesla, the First Solar 2017 guidance has been improved by the company in the recently announced results. It expects to have net sales in the range of $2.85 billion to $2.95 billion, with earnings per share falling in the range of $(0.30) to $0.40. The shipments are expected to lie in the range of 2.4GW to 2.6GW. 
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 2.0
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'LOCATION', 'LOCATION', 'OTHER', 'LOCATION', 'ORGANIZATION', 'PERSON', 'OTHER', 'OTHER', 'LOCATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'LOCATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'DATE', 'PRICE', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: First Solar (FSLR) closed the most recent trading day at $129.85, moving -1.46% from the previous trading session. This move was narrower than the S&P 500's daily loss of 1.72%. At the same time, the Dow lost 1.62%, and the tech-heavy Nasdaq gained 0.09%.
+Sentiment score: -0.5
+Sentiment magnitude: 1.5
+Entity types: ['ORGANIZATION', 'ORGANIZATION', 'EVENT', 'EVENT', 'OTHER', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Prior to today's trading, shares of the largest U.S. solar company had gained 8.28% over the past month. This has outpaced the Oils-Energy sector's loss of 4.64% and the S&P 500's loss of 9.09% in that time.
+Sentiment score: 0.0
+Sentiment magnitude: 0.10000000149011612
+Entity types: ['OTHER', 'EVENT', 'ORGANIZATION', 'LOCATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Wall Street will be looking for positivity from First Solar as it approaches its next earnings report date. The company is expected to report EPS of -$0.24, down 157.14% from the prior-year quarter. Meanwhile, the Zacks Consensus Estimate for revenue is projecting net sales of $761.87 million, up 30.57% from the year-ago period.
+Sentiment score: -0.10000000149011612
+Sentiment magnitude: 0.30000001192092896
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: FSLR's full-year Zacks Consensus Estimates are calling for earnings of -$0.09 per share and revenue of $2.63 billion. These results would represent year-over-year changes of -102.05% and -9.96%, respectively.
+Sentiment score: -0.10000000149011612
+Sentiment magnitude: 0.20000000298023224
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: It is also important to note the recent changes to analyst estimates for First Solar. These recent revisions tend to reflect the evolving nature of short-term business trends. As such, positive estimate revisions reflect analyst optimism about the company's business and profitability.
+Sentiment score: 0.30000001192092896
+Sentiment magnitude: 1.100000023841858
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER']
+
+Line: Research indicates that these estimate revisions are directly correlated with near-term share price momentum. Investors can capitalize on this by using the Zacks Rank. This model considers these estimate changes and provides a simple, actionable rating system.
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 0.800000011920929
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'PERSON', 'OTHER', 'OTHER', 'OTHER', 'OTHER']
+
+Line: The Zacks Rank system, which ranges from #1 (Strong Buy) to #5 (Strong Sell), has an impressive outside-audited track record of outperformance, with #1 stocks generating an average annual return of +25% since 1988. The Zacks Consensus EPS estimate has moved 2.9% lower within the past month. First Solar currently has a Zacks Rank of #3 (Hold).
+Sentiment score: 0.0
+Sentiment magnitude: 1.100000023841858
+Entity types: ['OTHER', 'OTHER', 'EVENT', 'OTHER', 'OTHER', 'EVENT', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The Solar industry is part of the Oils-Energy sector. This industry currently has a Zacks Industry Rank of 91, which puts it in the top 37% of all 250+ industries.
+Sentiment score: 0.0
+Sentiment magnitude: 0.30000001192092896
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The Zacks Industry Rank includes is listed in order from best to worst in terms of the average Zacks Rank of the individual companies within each of these sectors. Our research shows that the top 50% rated industries outperform the bottom half by a factor of 2 to 1.
+Sentiment score: 0.0
+Sentiment magnitude: 0.800000011920929
+Entity types: ['ORGANIZATION', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: First Solar (NASDAQ:FSLR) stock has soared 125% since May, while the S&P 500 fell less than 1%. Between June 3 and July 26, FSLR stock completed a reverse head-and-shoulders pattern, and the shares have pretty much risen continuously since then.
+Sentiment score: 0.0
+Sentiment magnitude: 0.30000001192092896
+Entity types: ['ORGANIZATION', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'DATE', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: First Solar makes and markets solar modules used in large-scale solar energy projects. The company “already has a solar module factory in Ohio, and it’s building another, large solar module plant in the state.”
+Sentiment score: 0.0
+Sentiment magnitude: 0.0
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'LOCATION', 'LOCATION', 'LOCATION']
+
+Line: As of the market close on Sept. 19, FSLR was trading well above its 50-day moving average and its 200-day moving average of  $106.48 and $83.92, respectively.
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.10000000149011612
+Entity types: ['ORGANIZATION', 'EVENT', 'OTHER', 'OTHER', 'DATE', 'PRICE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The renewable energy industry has been growing ever since the U.S. Senate passed the Inflation Reduction Act of 2022 (“IRA”). To fight the ongoing climate crisis and strengthen the U.S. energy infrastructure, the IRA entails an investment of $369 billion over the next 10 years. This Climate Bill, which is part of IRA, is estimated to reduce the country’s carbon emissions by roughly 40% by 2030.
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.4000000059604645
+Entity types: ['OTHER', 'WORK_OF_ART', 'ORGANIZATION', 'OTHER', 'ORGANIZATION', 'OTHER', 'EVENT', 'OTHER', 'LOCATION', 'LOCATION', 'OTHER', 'DATE', 'DATE', 'PRICE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Such an investment should act as a catalyst for renewable energy amid rising energy prices and deepening climate problems. With solar constituting a prominent position in the clean energy space, such solid funding puts the spotlight on three established solar stocks, namely First Solar FSLR, Enphase Energy ENPH and SunPower SPWR.
+Sentiment score: 0.30000001192092896
+Sentiment magnitude: 0.6000000238418579
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'NUMBER']
+
+Line: Along with the incentive, the bill proclaims tax credits for homeowners using clean energy.  The Solar Investment Tax Credit (“ITC”), which is considered to be the most effective mechanism to boost solar adoption, has increased from 26% to 30% until 2033, thus making it more affordable for consumers. The energy storage division also gets a boost under the current IRA by including the ITC of 30% for standalone storage projects.
+Sentiment score: 0.5
+Sentiment magnitude: 1.5
+Entity types: ['OTHER', 'OTHER', 'WORK_OF_ART', 'OTHER', 'OTHER', 'PERSON', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'PERSON', 'ORGANIZATION', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Such an incentive is likely to propel the demand for solar-based energy as consumers fight against rising utility bills. That said, the government would deploy 950 million solar panels and 2,300 grid-scale battery plants to power homes, businesses and communities with clean energy by 2030.
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 0.5
+Entity types: ['OTHER', 'OTHER', 'OTHER', 'OTHER', 'PERSON', 'ORGANIZATION', 'OTHER', 'LOCATION', 'ORGANIZATION', 'LOCATION', 'OTHER', 'LOCATION', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The government also plans to provide incentives to scale up the domestic solar production capacity of the nation. This would ensure the sustainability and timely delivery of key materials and reduce reliance on China.
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 0.4000000059604645
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'LOCATION', 'OTHER', 'OTHER', 'OTHER', 'EVENT', 'LOCATION']
+
+Line: First Solar is a leading global provider of comprehensive photovoltaic solar energy solutions. Its module segment is involved in the design, manufacturing and sale of solar modules. FSLR recently revealed plans to boost its production capacity of solar modules by investing $1.2 billion to bolster America’s domestic solar manufacturing capacity.
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.5
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'LOCATION', 'OTHER', 'PRICE', 'NUMBER']
+
+Line: First Solar’s long-term earnings growth rate is pegged at 49.3%. The company boasts a four-quarter average earnings surprise of 13.74%. First Solar currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here
+Sentiment score: 0.0
+Sentiment magnitude: 0.800000011920929
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: Enphase Energy enjoys a solid position in the solar market and manufactures fully integrated solar-plus-storage solutions. As of Jun 30, 2022, more than 48 million microinverters were shipped, while approximately 2.5 million Enphase residential and commercial systems were deployed in more than 140 countries.
+Sentiment score: 0.4000000059604645
+Sentiment magnitude: 0.8999999761581421
+Entity types: ['OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'LOCATION', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The company boasts a long-term earnings growth rate of 47.10%. The Zacks Consensus Estimate for ENPH’s 2022 sales implies an improvement of 63% from the prior-year figure. Enphase Energy currently carries a Zacks Rank
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.6000000238418579
+Entity types: ['ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'ORGANIZATION', 'OTHER', 'OTHER', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: SunPower is one of the most forward-integrated solar companies. The company added 19,700 customers in the second quarter, reflecting growth of 51% year over year. This expanded its total customer base to 463,600. The company expects residential customers in the range of 73,000-80,000 in 2022.
+Sentiment score: 0.20000000298023224
+Sentiment magnitude: 1.399999976158142
+Entity types: ['OTHER', 'ORGANIZATION', 'ORGANIZATION', 'ORGANIZATION', 'PERSON', 'OTHER', 'PERSON', 'OTHER', 'OTHER', 'ORGANIZATION', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
+Line: The Zacks Consensus Estimate for SPWR’s 2022 sales suggests a growth rate of 26.1% from the prior-year reported figure. The Zacks Consensus Estimate for its 2022 earnings indicates a growth rate of a solid 300% over 2021’s reported figure. SunPower has a Zacks Rank #3 at present.
+Sentiment score: 0.10000000149011612
+Sentiment magnitude: 0.4000000059604645
+Entity types: ['OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'OTHER', 'ORGANIZATION', 'OTHER', 'DATE', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER', 'NUMBER']
+
